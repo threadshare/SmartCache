@@ -83,7 +83,7 @@ We welcome contributions from the community! 🌍 If you would like to contribut
 
 ## License
 
-SmartCache is licensed under the [MIT License](LICENSE).
+SmartCache is licensed under the [Apache License](LICENSE).
 
 ---
 
