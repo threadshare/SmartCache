@@ -6,15 +6,17 @@
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Key Features](#key-features)
-- [Problem Statement](#problem-statement)
-- [Target Users](#target-users)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Technical Topics](#technical-topics)
-- [Contributing](#contributing)
-- [License](#license)
+- [SmartCache](#smartcache)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Key Features](#key-features)
+  - [Problem Statement](#problem-statement)
+  - [Target Users](#target-users)
+  - [Getting Started](#getting-started)
+  - [Usage](#usage)
+  - [Technical Topics](#technical-topics)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ## Introduction
 
