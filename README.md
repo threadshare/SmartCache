@@ -1,3 +1,5 @@
+<p align="center"><img src="./assets/smartcache_logo_corner.png" width="360"></p>
+
 # SmartCache
 
 **SmartCache: The SYSTEM1-inspired semantic cache for LLMs, optimizing performance and reducing costs with instant, intelligent responses. ⚡💡**
